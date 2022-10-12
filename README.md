@@ -14,9 +14,9 @@
 
 **Team Size :** 4
 
-**Team Leader :** Kaviarasi I
+**Team Leader :** Praveena S
 
-**Team member :** Praveena S
+**Team member :** Kaviarasi I
 
 **Team member :** Preethi G
 
