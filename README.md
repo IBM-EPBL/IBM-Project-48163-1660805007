@@ -25,7 +25,7 @@
 ---
 **Industry Mentor's Name :** Krishna Chaitanya
 
-**Faculty Mentor's Name :** D SUJITHRA DEVI
+**Faculty Mentor's Name :** SUHASINI C
 
 ---
 
