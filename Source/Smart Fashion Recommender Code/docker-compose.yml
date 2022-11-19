@@ -1,0 +1,8 @@
+docker-test:
+    build: .
+     
+    command: python app.py
+    volumes:
+      - .:/home/praveena/Documents/tact/docker-unknowfacts-flask
+    ports:
+      - "9000:9000"
